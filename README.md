@@ -15,7 +15,7 @@ open or close door of the elevator and also this application is able to show the
 
 ## How to Run?
 
-This application is made for only windows operating systems, To run this application dowload Elevator_Project.rar and then:
+This application is made for only windows operating systems, To run this application dowload [Elevator_Project.rar](https://github.com/umerk4466/Automatic-Elevator/blob/master/Elevator_Project.rar) and then:
 
 ```bash
 Extract the Downloaded folder Elevator_Project.rar
