@@ -1,6 +1,7 @@
 # Automatic Elevator
 
-‘Automatic Elevator’ is an GUI application. This GUI contains two different floors with the names floor 1 and floor 2 and also contains one elevator which can be controlled by the floor button or from the elevator panel. All log of the elvator will be stored in database automatically. 
+‘Automatic Elevator’ is an GUI application. This GUI contains two different floors with the names floor 1 and floor 2 and also contains one elevator which can be controlled by the floor button or from the elevator panel. All logs of the elevator will be stored in database automatically. 
+
 
 # Purpose
 
@@ -8,7 +9,7 @@
 
 ## How to Run?
 
-This application is made with Ide visual studio to run this:
+This application is made for only windows operating systems, To run this application goto:
 
 ```bash
 Go to  -> Application Directory
