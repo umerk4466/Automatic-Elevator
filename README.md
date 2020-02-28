@@ -12,8 +12,5 @@
 This application is made for only windows operating systems, To run this application goto:
 
 ```bash
-Go to  -> Application Directory
-Go to  -> Bin Folder
-Go to  -> Debug Folder
-Execute -> Elevator_Project.exe
+Go to  -> Directory -> Bin -> Debug -> Elevator_Project.exe
 ```
