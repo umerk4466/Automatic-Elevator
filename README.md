@@ -18,5 +18,9 @@ open or close door of the elevator and also this application is able to show the
 This application is made for only windows operating systems, To run this application goto:
 
 ```bash
-Go to  -> Directory -> Bin -> Debug -> Elevator_Project.exe
+Extract the Download folder Elevator_Project.rar
+```
+Then Goto
+```bash
+Elevator_Project -> bin -> Debug -> Elevator_Project.exe
 ```
