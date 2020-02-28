@@ -1,6 +1,8 @@
 # Automatic Elevator
 
-‘Automatic Elevator’ is an GUI application. This GUI contains two different floors with the names floor 1 and floor 2 and also contains one elevator which can be controlled by the floor button or from the elevator panel. All logs of the elevator will be stored in database automatically. 
+‘Automatic Elevator’ is an GUI application. This application contains two different floor and one elevator
+which is able to controlled by the user, user can control the elevator as they want they can move up or down, they can
+open or close door of the elevator and also this application is able to show them the history of the elevator as all logs of the elevator will be stored in database automatically.
 
 ### Working application Demo below
 
