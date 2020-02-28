@@ -15,10 +15,10 @@ open or close door of the elevator and also this application is able to show the
 
 ## How to Run?
 
-This application is made for only windows operating systems, To run this application goto:
+This application is made for only windows operating systems, To run this application dowload Elevator_Project.rar and then:
 
 ```bash
-Extract the Download folder Elevator_Project.rar
+Extract the Downloaded folder Elevator_Project.rar
 ```
 Then Goto
 ```bash
